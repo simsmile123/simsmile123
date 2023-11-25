@@ -1,4 +1,10 @@
-### hey! My name is Simrith Ranjan, and I'm a freshman studying computer science at Purdue University! I currently am working on refining my computer science skills by taking courses such as CS 180 and CS 193. I am also part of the Data Mine Learning Community, working with Caterpillar to create an app that helps their customers find EV chargers for their CAT machines! You can  reach me at my email simrith.ranjan@gmail.com.
+### Hi, my name is Simrith Ranjan.
+
+I'm a freshman studying computer science at Purdue University.<br>
+I'm currently working on refining my computer science skills by taking courses such as CS 180 and CS 193. <br>
+I'm also a part of the Data Mine Learning Community, working with our Caterpillar client to create an app that helps their customers find EV chargers for their CAT machines.
+
+You can  reach me at my email simrith.ranjan@gmail.com.
 
 <!--
 **simsmile123/simsmile123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
