@@ -1,8 +1,8 @@
 ### Hi, my name is Simrith Ranjan.
 
-I'm a freshman studying computer science at Purdue University.<br>
-I'm currently working on refining my computer science skills by working on projects and excelling in courses such as CS 180 and CS 193. <br>
-I'm part of the Data Mine Learning Community, working with our Caterpillar client to create an app that helps their customers find EV chargers for their CAT machines.
+👩🏽‍💻 I'm a freshman studying computer science at Purdue University.<br> 
+💻 I'm currently working on refining my computer science skills by excelling in courses such as CS 180 and CS 193. <br>
+🔎 I'm part of the Data Mine Learning Community, working with our Caterpillar client to create an app that helps their customers find EV chargers for their CAT machines.
 
 You can reach me at my email simrith.ranjan@gmail.com.
 
