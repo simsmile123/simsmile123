@@ -3,6 +3,7 @@
 💻 I'm currently working on refining my computer science skills by excelling in courses such as CS 240 and CS 182. <br>
 🔎 I'm part of the Data Mine Learning Community, working with our Caterpillar client to create an app that helps their customers find EV chargers for their CAT machines.</span>
 My skills include Java, Python, C, C++, and Javascript! I'm constantly eager to learn.
+Please do not use any of my code
 You can always reach me at my email simrith.ranjan@gmail.com.
 
 <!--
