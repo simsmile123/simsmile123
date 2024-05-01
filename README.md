@@ -4,7 +4,7 @@
 🔨 I'm a Launch Software Engineer Student <br>
 🔎 I'm part of the Data Mine Learning Community, working as a corporate TA, and previously worked with a Caterpillar client to create an app that helps their customers find EV chargers for their CAT electric machines </span> <br>
 My technical proficiencies include Java, Python, C, C++, and Javascript! <br>
-Do not use any of my code for malicious purposes, including academic dishonesty and cheating.
+Do not use any of my code for malicious purposes, including academic dishonesty and cheating. <br>
 You can always reach me at my email simrith.ranjan@gmail.com
 
 <!--
