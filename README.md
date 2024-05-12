@@ -1,8 +1,8 @@
 # Hi, my name is Simrith Ranjan 💗 
 <span style="font-size: larger;"> 👩🏽‍💻 I'm a freshman studying computer science at Purdue University, on track to graduate in May 2026. <br> 
-💻 I'm currently working on refining my computer science skills by excelling in courses such as CS 240 and CS 182. <br>
-🔨 I'm a Launch Software Engineer Student <br>
-🔎 I'm part of the Data Mine Learning Community, working as a corporate TA, and previously worked with a Caterpillar client to create an app that helps their customers find EV chargers for their CAT electric machines </span> <br>
+💻 I'm currently working on refining my computer science skills by <br>
+🔨 I'm a Launch Software Engineer Student (learning Javascript, NextJS, React, brushed up my HTML/CSS) <br>
+🔎 I'm part of the Data Mine Learning Community, working as a corporate TA, and previously worked with a Caterpillar client to create an app that helps their customers find EV chargers for their CAT electric machines (made ML models, full-stack application, and patented solution using Dijkstra technique) </span> <br>
 My technical proficiencies include Java, Python, C, C++, and Javascript! <br>
 Do not use any of my code for malicious purposes, including academic dishonesty and cheating. (I frequently check) <br>
 You can always reach me at my email simrith.ranjan@gmail.com
