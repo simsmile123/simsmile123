@@ -2,8 +2,9 @@
 <span style="font-size: larger;"> 👩🏽‍💻 i'm a junior studying computer science at Purdue University, on track to graduate in May 2026. i'm from nova, and i went to Thomas Jefferson HS. <br> 
 
 
-💻👩‍🎓🔨 I'm a Forge Launch Software Engineer Student (refining my Typescript, Javascript, NextJS, React; brushed up my HTML/CSS3; learning AWS & mySQL) <br>
-🔎 I'm part of the Data Mine Learning Community, working as a corporate TA, and previously worked with a Caterpillar Inc. client to create an app that helps their customers find EV chargers for their CAT electric machines (visualized some ML models, full-stack application, and patented solution using Dijkstra technique) </span> <br>
+👩‍🎓🔨 I'm a Forge Launch Software Engineer Student (refining my Typescript, Javascript, NextJS, React; brushed up my HTML/CSS3; learning AWS & mySQL) <br>
+💻 I love marketing on the side for Purdue's Google Developer Student Club!
+🔎 LASTLYY i'm part of the Data Mine Learning Community, working as a corporate TA, and previously worked with a Caterpillar Inc. client to create an app that helps their customers find EV chargers for their CAT electric machines (visualized some ML models, full-stack application, and patented solution using Dijkstra technique) </span> <br>
 
 My technical proficiencies include Java, Javascript, Python, C, & C++! <br>
 Do not use any of my code for malicious purposes, including academic dishonesty and cheating. <br>
