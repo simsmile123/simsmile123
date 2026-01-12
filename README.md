@@ -1,12 +1,14 @@
 # Hi, my name is Simrith Ranjan 💗 
-<span style="font-size: larger;"> 👩🏽‍💻 I'm a junior studying computer science at Purdue University, on track to graduate in May 2026. I'm from nova, and I went to Thomas Jefferson HS. <br> 
+<span style="font-size: larger;"> 👩🏽‍💻 I'm a senior studying computer science at Purdue University, on track to graduate in May 2026. I went to Thomas Jefferson HS in Virginia. <br> 
 
 
-👩‍🎓🔨 I also am a Forge Launch Software Engineer Student (learned SQL, Typescript, Javascript, NextJS, React; brushed up my HTML/CSS3; learning AWS) <br>
-💻 I like marketing for Purdue's Google Developer Student Club!
-🔎 LASTLY I'm part of the Data Mine Learning Community, working as a corporate partners teaching assistant, and previously worked as a software developer with a Caterpillar Inc. client to create an app that helps their fleet operators find EV chargers for their CAT electric machines (visualized ML models, created a full-stack application, and a patented solution using Dijkstra technique) </span> <br>
+👩‍🎓🔨 I have work experience at Amazon, Caterpillar, and Foodservice Consultants Studio.
+🔎  I also worked as a corporate partners teaching assistant. </span> <br>
 
 My technical proficiencies include Java, Javascript, Python, C, & C++! <br>
+
+I'm looking for full time opportunities post graduation.
+
 Do not use any of my code for malicious purposes, including academic dishonesty and cheating. <br>
 You can always reach me at my email simrith.ranjan@gmail.com
 
