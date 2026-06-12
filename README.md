@@ -1,5 +1,5 @@
 # Hi, my name is Simrith Ranjan 💗 
-<span style="font-size: larger;"> 👩🏽‍💻 I'm a senior studying computer science at Purdue University, on track to graduate in May 2026. I went to Thomas Jefferson HS in Virginia. <br> 
+<!-- <span style="font-size: larger;"> 👩🏽‍💻 I'm a senior studying computer science at Purdue University, on track to graduate in May 2026. I went to Thomas Jefferson HS in Virginia. <br> 
 
 
 👩‍🎓🔨 I have work experience at Amazon, Caterpillar, and Foodservice Consultants Studio.
@@ -7,7 +7,7 @@
 
 My technical proficiencies include Java, Javascript, Python, C, & C++! <br>
 
-I'm looking for full time opportunities post graduation.
+I'm looking for full time opportunities post graduation. -->
 
 Do not use any of my code for malicious purposes, including academic dishonesty and cheating. <br>
 You can always reach me at my email simrith.ranjan@gmail.com
